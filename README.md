@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, I'm Swayam!
+🚀 **Computer Science Engineer** | 🎯 Full-stack Developer | 🧠 DSA & Systems Thinker  
+📍 Based in India | 🏅 5⭐ C++ @ HackerRank | 
 
-<!--
-**swayam04sri/swayam04sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+- 💻 Languages: `C++`, `Python`, `JavaScript`, `TypeScript`
+- 🌐 Frontend: `React.js`, `Next.js`, `Tailwind CSS`, `React Native`, `Expo`
+- 🧰 Backend: `Node.js`, `Express`, `Firebase`, `MongoDB`
+- 🧠 ML/DL: `TensorFlow`, `Scikit-learn`, `CNNs`
+- ☁️ Cloud & Tools: `AWS`, `Redux`, `Recoil`, `Jest`, `Vitest`, `Git`, `VSCode`
 
-Here are some ideas to get you started:
+📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In a world full of code, be the algorithm that optimizes life.
